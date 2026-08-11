@@ -1,0 +1,26 @@
+{
+  "name": "AnimeT - Xem Anime Vietsub",
+  "short_name": "AnimeT",
+  "description": "Kho anime vietsub đa thể loại, cập nhật nhanh nhất. Xem ngay miễn phí!
+Xem anime vietsub online chất lượng cao, anime hay nhất, cập nhật nhanh nhất.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0e0b08",
+  "theme_color": "#0e0b08",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPGo8IPn3RN05O358YVEpitRcoHGQkSvs2JEgUiaG2WEjCKXAKmPBb2y8ZKCwd3bm-ZGVexVqOSe-60cMDG_SqNLS8J8ZnFE52o3v4uilvEMYMxgRJepnMaCu2tsg7rCvX2kHuOIxgIqvY4kJybzc4OXxxCTaeeJ1ReiaTEght-d19jhGLXXWVRH-qUWQ/s192/nicoco.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPGo8IPn3RN05O358YVEpitRcoHGQkSvs2JEgUiaG2WEjCKXAKmPBb2y8ZKCwd3bm-ZGVexVqOSe-60cMDG_SqNLS8J8ZnFE52o3v4uilvEMYMxgRJepnMaCu2tsg7rCvX2kHuOIxgIqvY4kJybzc4OXxxCTaeeJ1ReiaTEght-d19jhGLXXWVRH-qUWQ/s512/nicoco.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
